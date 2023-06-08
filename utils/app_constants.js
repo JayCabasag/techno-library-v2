@@ -20,7 +20,7 @@ export const IMAGES = {
 export const TOTAL_BOOK_LOAD_LIMIT = 10
 export const DEVELOPEMENT_STATE = 'official'
 
-export const RECOVERY_PASSWORD_SERVER_LINK = 'https://plastic-grass-production.up.railway.app/recovery-password'
+export const RECOVERY_PASSWORD_SERVER_LINK = 'https://library-management-wheat.vercel.app/api/user/recovery-password'
 
 export const ALGOLIA_SEARCH_URL = 'https://M70JQ0SK9C-dsn.algolia.net/1/indexes/books?query='
 export const ALGOLIA_SEARCH_API_KEY = '8d1c6df076f6118489e05560c72eefff'
